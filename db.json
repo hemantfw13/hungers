@@ -1,0 +1,365 @@
+{
+    "get-restaurants": [
+      {
+        "id": 1,
+        "name": "Redhold",
+        "cost_for_two": 571,
+        "stars": 1,
+        "votes": 540,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 2,
+        "name": "Latlux",
+        "cost_for_two": 577,
+        "stars": 1,
+        "votes": 560,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 3,
+        "name": "Alpha",
+        "cost_for_two": 571,
+        "stars": 2,
+        "votes": 501,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 4,
+        "name": "Duobam",
+        "cost_for_two": 566,
+        "stars": 2,
+        "votes": 566,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": false,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 5,
+        "name": "Pannier",
+        "cost_for_two": 537,
+        "stars": 1,
+        "votes": 571,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": false,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 6,
+        "name": "Keylex",
+        "cost_for_two": 590,
+        "stars": 5,
+        "votes": 530,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": false,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 7,
+        "name": "Cardify",
+        "cost_for_two": 576,
+        "stars": 4,
+        "votes": 501,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": false,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 8,
+        "name": "Bigtax",
+        "cost_for_two": 536,
+        "stars": 2,
+        "votes": 511,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": false,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1593854823322-5a737e326b1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 9,
+        "name": "Tres-Zap",
+        "cost_for_two": 563,
+        "stars": 2,
+        "votes": 543,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1556040220-4096d522378d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 10,
+        "name": "Daltfresh",
+        "cost_for_two": 543,
+        "stars": 4,
+        "votes": 522,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 11,
+        "name": "Lotlux",
+        "cost_for_two": 545,
+        "stars": 1,
+        "votes": 572,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 12,
+        "name": "Lotstring",
+        "cost_for_two": 527,
+        "stars": 4,
+        "votes": 595,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1557748362-4e95f0de4f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 13,
+        "name": "Stronghold",
+        "cost_for_two": 512,
+        "stars": 2,
+        "votes": 598,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1576021182211-9ea8dced3690?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 14,
+        "name": "Redhold",
+        "cost_for_two": 553,
+        "stars": 2,
+        "votes": 585,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": false
+          
+        },
+        "url": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 15,
+        "name": "Flowdesk",
+        "cost_for_two": 571,
+        "stars": 5,
+        "votes": 596,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 16,
+        "name": "Bitwolf",
+        "cost_for_two": 577,
+        "stars": 5,
+        "votes": 519,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1589218909732-f304d13fbf2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 17,
+        "name": "Span",
+        "cost_for_two": 553,
+        "stars": 2,
+        "votes": 542,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+         
+        },
+        "url": "https://images.unsplash.com/photo-1578922864601-79dcc7cbcea9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 18,
+        "name": "Bitwolf",
+        "cost_for_two": 512,
+        "stars": 5,
+        "votes": 527,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://images.unsplash.com/photo-1610670444950-0b29430891b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 19,
+        "name": "Alphazap",
+        "cost_for_two": 549,
+        "stars": 3,
+        "votes": 570,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://www.foodiesfeed.com/wp-content/uploads/2021/01/fried-egg-and-guacamole-sandwiches-819x1024.jpg.webp"
+      },
+      {
+        "id": 20,
+        "name": "Wrapsafe",
+        "cost_for_two": 578,
+        "stars": 3,
+        "votes": 531,
+        "categories": [
+          "South India",
+          "Asian",
+          "Mexican"
+        ],
+        "payment_methods": {
+          "card": true,
+          "cash": true
+          
+        },
+        "url": "https://www.foodiesfeed.com/wp-content/uploads/2021/06/small-donut-with-raspberry-on-top-768x1024.jpg.webp"
+      }
+     
+    ]
+  }
